@@ -24,7 +24,6 @@
     }
   },
   "config": {
-    "sort-packages": true,
-    "platform-check": false
+    "sort-packages": true
   }
 }
