@@ -10,7 +10,7 @@
 
 ## Install
 ```shell
-composer install random_tool/random_encrypt
+composer require random_tool/random_encrypt
 ```
 
 示例代码：
